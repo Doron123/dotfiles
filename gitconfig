@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = doronabergel@hotmail.com
+	name = Doron Abergel
